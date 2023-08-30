@@ -4,8 +4,8 @@ let cor = prompt("Qual sua cor favorita?");
 console.log("A cor favorita de " + nome + " é " + cor);
 console.log(`A cor favorita de ${nome} é ${cor}`);
 
-const nome = "Vitor Hugo";
-console.log(nome.length);
+const nome2 = "Vitor Hugo";
+console.log(nome2.length);
 
 const frase = "OieEeEeEEEe!"
 const fraseMinuscula = frase.toLowerCase();
